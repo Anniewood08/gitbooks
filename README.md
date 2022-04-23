@@ -9,3 +9,11 @@ This style guide provides guidelines for writing clear and consistent content. I
 
 > Goal: _When writing for Handshake users, focus on creating a helpful, simple user experience._
 
+### Where to find additional style answers
+
+This style guide provides product-specific answers.
+
+Additional references
+
+* Spelling: [Merriam Webster](https://www.merriam-webster.com)
+* Style: [Chicago Manual of Style](https://www.chicagomanualofstyle.org)

@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [Where to find style answers](where-to-find-style-answers.md)
 * [Voice and tone](voice-and-tone/README.md)
   * [Voice](voice-and-tone/voice.md)
   * [Tone](voice-and-tone/tone.md)

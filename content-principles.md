@@ -32,7 +32,7 @@ Use consistent terms throughout the app to build trust with users. Consistency a
 
 ### Build a clear, scannable structure <a href="#build-a-clear-scannable-structure" id="build-a-clear-scannable-structure"></a>
 
-Build a clear, repeating information hierarchy so that users can quickly read and understand information. [Styles](https://anniewood.atlassian.net/wiki/spaces/SG/pages/1703943)
+Build a clear, repeating information hierarchy so that users can quickly read and understand information. [Styles](styles/)
 
 * Use headings
 * Use bulleted lists to list items
