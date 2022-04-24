@@ -52,8 +52,8 @@ Use clear, concise, front-loaded headings to make your content easier to underst
 
 #### Numbers <a href="#numbers" id="numbers"></a>
 
-* Use numerals.
-* [Date formats](https://anniewood.atlassian.net/wiki/spaces/SG/pages/1703950)
+* [Date formats](styles/date-formats.md)
+* [Currency formats](styles/currency-formats.md)
 
 #### Punctuation <a href="#punctuation" id="punctuation"></a>
 

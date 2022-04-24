@@ -6,19 +6,15 @@ description: >-
 
 # Content principles
 
-These content principles will help make the user experience helpful and simple for our users.
-
-When writing for users, you should
-
-
+These content principles will help make the user experience helpful and simple for our users. When writing for users, you should
 
 ### Lead with the benefit <a href="#lead-with-the-benefit" id="lead-with-the-benefit"></a>
 
 To quickly engage users, start with why they should take an action.
 
-| ![:check\_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/atlassian/check\_mark\_32.png) **Like this** | ![:no\_entry:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/a51a7674-8d5d-4495-a2d2-a67c090f5c3b/32x32/26d4.png) **Not this** |
-| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Get paid quicker by…                                                                                                           | Send your project updates daily to…                                                                                                                        |
+| Like this                                 | Not this                                        |
+| ----------------------------------------- | ----------------------------------------------- |
+| :white\_check\_mark: Get paid quicker by… | :no\_entry: Send your project updates daily to… |
 
 ### Think like a user <a href="#think-like-a-user" id="think-like-a-user"></a>
 
@@ -26,13 +22,11 @@ As you write, think like a user. Be clear, concise, and informative. Organize an
 
 ### Use consistent terms <a href="#use-consistent-terms" id="use-consistent-terms"></a>
 
-Use consistent terms throughout the app to build trust with users. Consistency and clarity produce an easy and understandable user experience.
-
-[Word Choice](https://anniewood.atlassian.net/wiki/spaces/SG/pages/1474561)
+Use consistent terms throughout the app to build trust with users. Consistency and clarity produce an easy and understandable user experience. See [Word Choice](word-choice.md) for product specific terms.&#x20;
 
 ### Build a clear, scannable structure <a href="#build-a-clear-scannable-structure" id="build-a-clear-scannable-structure"></a>
 
-Build a clear, repeating information hierarchy so that users can quickly read and understand information. [Styles](styles/)
+Build a clear, repeating information hierarchy so that users can quickly read and understand information. See [Styles](styles/) for how to write and style specific types of content.
 
 * Use headings
 * Use bulleted lists to list items
@@ -61,9 +55,8 @@ Answer user questions with tooltips or microcopy.
 
 To reduce word and character counts, remove vague filler words:&#x20;
 
-* such
-* just
-* that&#x20;
-* really&#x20;
-* very&#x20;
-* please
+| such | really |
+| ---- | ------ |
+| just | very   |
+| that | please |
+
