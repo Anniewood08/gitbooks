@@ -1,5 +1,5 @@
 ---
-cover: broken-reference
+cover: .gitbook/assets/50588926157_03b1215f35_k.jpg
 coverY: 0
 ---
 
