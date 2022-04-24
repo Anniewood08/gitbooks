@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/50588926157_03b1215f35_k.jpg
-coverY: 0
+coverY: 277.22279792746116
 ---
 
 # Handshake style guide
@@ -11,13 +11,25 @@ This style guide provides guidelines for writing clear and consistent content. I
 
 ### Content
 
-* [voice-and-tone](voice-and-tone/ "mention")
-* [content-principles.md](content-principles.md "mention")
-* [styles](styles/ "mention")
-* [grammar.md](grammar.md "mention")
-* [word-choice.md](word-choice.md "mention")
+{% content-ref url="voice-and-tone/" %}
+[voice-and-tone](voice-and-tone/)
+{% endcontent-ref %}
 
+{% content-ref url="content-principles.md" %}
+[content-principles.md](content-principles.md)
+{% endcontent-ref %}
 
+{% content-ref url="styles/" %}
+[styles](styles/)
+{% endcontent-ref %}
+
+{% content-ref url="grammar.md" %}
+[grammar.md](grammar.md)
+{% endcontent-ref %}
+
+{% content-ref url="word-choice.md" %}
+[word-choice.md](word-choice.md)
+{% endcontent-ref %}
 
 ### Where to find additional style answers
 
