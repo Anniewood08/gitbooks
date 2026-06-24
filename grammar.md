@@ -1,3 +1,7 @@
+---
+icon: paragraph
+---
+
 # Grammar
 
 ### Basics <a href="#basics" id="basics"></a>
@@ -15,7 +19,7 @@ Communicate the essential details and let users get back to their task. Write to
 
 Use common, clear, easy-to-understand words.
 
-* Use standard American English spelling and punctuation ([Merriam-Webster.com](https://www.merriam-webster.com)).&#x20;
+* Use standard American English spelling and punctuation ([Merriam-Webster.com](https://www.merriam-webster.com/)).&#x20;
 * Choose easy and short words. Avoid formal, long words.&#x20;
 * Avoid jargon and buzzwords.&#x20;
 * Use consistent words. For Handshake-specific word usage, see [Word Choice](https://anniewood.atlassian.net/wiki/spaces/SG/pages/1474561).
@@ -71,4 +75,4 @@ Use clear, concise, front-loaded headings to make your content easier to underst
 
 * When in doubt, do not use italics
 
-\
+<br>

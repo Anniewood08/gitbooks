@@ -2,6 +2,7 @@
 description: >-
   These content principles will help make the user experience helpful and simple
   for our users.
+icon: head-side-gear
 ---
 
 # Content principles

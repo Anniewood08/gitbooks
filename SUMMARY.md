@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Handshake style guide](README.md)
+* [Writing style guide](README.md)
 * [Voice and tone](voice-and-tone/README.md)
   * [Voice](voice-and-tone/voice.md)
   * [Tone](voice-and-tone/tone.md)

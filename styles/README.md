@@ -1,3 +1,7 @@
+---
+icon: palette
+---
+
 # Styles
 
 ### Screen (page) headings <a href="#page-screen-headings" id="page-screen-headings"></a>
