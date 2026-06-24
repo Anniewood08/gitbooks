@@ -4,7 +4,7 @@ icon: spell-check
 
 # Product glossary
 
-When writing for Meridian Aura, avoid buzzwords, slang, and technical jargon. A list of product specific words are outlined below.
+When writing for Aura, avoid buzzwords, slang, and technical jargon. A list of product-specific words is outlined below.
 
 ## A
 
