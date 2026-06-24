@@ -10,4 +10,5 @@
   * [Date formats](styles/date-formats.md)
   * [Currency formats](styles/currency-formats.md)
 * [Grammar](grammar.md)
-* [Product glossary](product-glossary.md)
+* [Product glossary](product-glossary/README.md)
+  * [Product names](product-glossary/product-names.md)

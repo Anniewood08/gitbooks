@@ -28,8 +28,8 @@ This style guide provides guidelines for writing clear and consistent content. I
 [grammar.md](grammar.md)
 {% endcontent-ref %}
 
-{% content-ref url="product-glossary.md" %}
-[product-glossary.md](product-glossary.md)
+{% content-ref url="product-glossary/" %}
+[product-glossary](product-glossary/)
 {% endcontent-ref %}
 
 ### Where to find additional style answers

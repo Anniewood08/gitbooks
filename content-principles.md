@@ -23,7 +23,7 @@ As you write, think like a user. Be clear, concise, and informative. Organize an
 
 ### Use consistent terms <a href="#use-consistent-terms" id="use-consistent-terms"></a>
 
-Use consistent terms throughout the app to build trust with users. Consistency and clarity produce an easy and understandable user experience. See [Word Choice](product-glossary.md) for product specific terms.&#x20;
+Use consistent terms throughout the app to build trust with users. Consistency and clarity produce an easy and understandable user experience. See [Word Choice](product-glossary/) for product specific terms.&#x20;
 
 ### Build a clear, scannable structure <a href="#build-a-clear-scannable-structure" id="build-a-clear-scannable-structure"></a>
 

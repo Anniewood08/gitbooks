@@ -2,9 +2,34 @@
 icon: spell-check
 ---
 
-# Word choice
+# Product glossary
 
 When writing for Meridian Aura, avoid buzzwords, slang, and technical jargon. A list of product specific words are outlined below.
+
+## A
+
+### Aura
+
+Aura is an AI assistant included within the Meridian dashboard.&#x20;
+
+* **Terms to avoid**: chatbot, agent, Meridian Aura (just Aura)
+* **See also**: [Meridian product names](product-names.md)
+
+## B
+
+### Budget
+
+Used to estimate payment terms. _Budget_ is a more user-friendly term than payment terms. It also reminds the clients that money is a vital part of the project and partnership.
+
+* **Terms to avoid**: payment terms
+
+### Client
+
+Used to describe the person paying for the project work.&#x20;
+
+* **Terms to avoid**: business owner
+
+
 
 | Term           | Don't use                       | Description                                                                                                                                                                                                                                                                                                                 |
 | -------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
