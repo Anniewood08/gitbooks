@@ -10,4 +10,4 @@
   * [Date formats](styles/date-formats.md)
   * [Currency formats](styles/currency-formats.md)
 * [Grammar](grammar.md)
-* [Word choice](word-choice.md)
+* [Product glossary](product-glossary.md)
