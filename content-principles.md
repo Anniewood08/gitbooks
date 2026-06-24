@@ -27,7 +27,7 @@ Use consistent terms throughout the app to build trust with users. Consistency a
 
 ### Build a clear, scannable structure <a href="#build-a-clear-scannable-structure" id="build-a-clear-scannable-structure"></a>
 
-Build a clear, repeating information hierarchy so that users can quickly read and understand information. See [Styles](styles/) for how to write and style specific types of content.
+Build a clear, repeating information hierarchy so that users can quickly read and understand information. See [Styles](content-patterns/) for how to write and style specific types of content.
 
 * Use headings
 * Use bulleted lists to list items

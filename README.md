@@ -20,8 +20,8 @@ This style guide provides guidelines for writing clear and consistent content. I
 [content-principles.md](content-principles.md)
 {% endcontent-ref %}
 
-{% content-ref url="styles/" %}
-[styles](styles/)
+{% content-ref url="content-patterns/" %}
+[content-patterns](content-patterns/)
 {% endcontent-ref %}
 
 {% content-ref url="grammar.md" %}

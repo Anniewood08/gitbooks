@@ -56,8 +56,8 @@ Use clear, concise, front-loaded headings to make your content easier to underst
 
 #### Numbers <a href="#numbers" id="numbers"></a>
 
-* [Date formats](styles/date-formats.md)
-* [Currency formats](styles/currency-formats.md)
+* [Date formats](content-patterns/date-formats.md)
+* [Currency formats](content-patterns/currency-formats.md)
 
 #### Punctuation <a href="#punctuation" id="punctuation"></a>
 
