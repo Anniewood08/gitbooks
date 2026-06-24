@@ -8,7 +8,7 @@ coverY: 277.22279792746116
 
 This style guide provides guidelines for writing clear and consistent content. It is intended to drive an accessible and easy-to-understand style meant to ease the cognitive load on users.
 
-> Goal: _When writing for Meridian Aura users, focus on creating a helpful, simple user experience._
+> Goal: _When writing for Meridian users, focus on creating a helpful, simple user experience._
 
 ### Content
 
